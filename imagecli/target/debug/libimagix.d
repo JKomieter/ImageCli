@@ -1,0 +1,1 @@
+/Users/joelkomieter/Documents/GitHub/ImageCli/imagecli/target/debug/libimagix.rlib: /Users/joelkomieter/Documents/GitHub/ImageCli/imagecli/src/imagix/error.rs /Users/joelkomieter/Documents/GitHub/ImageCli/imagecli/src/imagix/mod.rs /Users/joelkomieter/Documents/GitHub/ImageCli/imagecli/src/imagix/resize.rs /Users/joelkomieter/Documents/GitHub/ImageCli/imagecli/src/imagix/stats.rs
