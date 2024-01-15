@@ -39,7 +39,7 @@ imagix resize --size <small/medium/large> --mode all --folder <path_to_folder>
 ![Before](./imagecli/tmp/images/image1.jpeg)
 
 ### AFTER
-![After](./imagecli/tmp/tmp/image1.jpeg)
+![After](./imagecli/tmp/images/tmp/image1.jpeg)
 
 
 ### Resize Single Image
