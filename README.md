@@ -35,10 +35,10 @@ imagix resize --size <small/medium/large> --mode all --folder <path_to_folder>
 
 ## Examples
 
-### BEFORE
+### BEFORE ( Size = 128,244 bytes )
 ![Before](./imagecli/tmp/images/image1.jpeg)
 
-### AFTER
+### AFTER ( Size = 5,160 bytes )
 ![After](./imagecli/tmp/images/tmp/image1.jpeg)
 
 
